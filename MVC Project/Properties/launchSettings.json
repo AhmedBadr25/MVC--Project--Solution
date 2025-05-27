@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MVC Project": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
